@@ -14,6 +14,7 @@ These tests are designed to verify the basic operations of the application and e
 ## Page Object Model (POM) Classes
 
 In our Selenium-based automation tests, we leverage the Page Object Model (POM) design pattern, which enhances test maintenance and reduces code duplication. POM classes represent a direct mapping of the application's user interface. Each page in the application corresponds to a class in the test framework.
+
 All POM classes extend BasePage which has protected driver and common abstract methods.
 
 1. **HomePage.java**: This class contains web elements and methods related to the Home page.

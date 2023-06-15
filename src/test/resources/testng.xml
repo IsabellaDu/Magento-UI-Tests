@@ -7,8 +7,8 @@
             <package name="uiTests"/>
         </packages>-->
         <classes>
-            <!--<class name="uiTests.LoginAndSIgnInVerificationTest"></class>-->
-            <!--<class name="uiTests.CatalogSearchVerificationTest"></class>-->
+            <class name="uiTests.LoginAndSIgnInVerificationTest"></class>
+            <class name="uiTests.CatalogSearchVerificationTest"></class>
             <class name="uiTests.AddToCartAndCheckoutVerificationTest"></class>
         </classes>
     </test>

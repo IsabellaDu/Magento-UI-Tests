@@ -1,4 +1,4 @@
-# Project Title
+# Magento-UI-Tests
 
 ## Overview
 
